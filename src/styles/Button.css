@@ -12,3 +12,7 @@
     margin: 4px;
     border-radius: 25px;
 }
+
+.button-wrapper:hover{
+    background-color: #838383;
+}
