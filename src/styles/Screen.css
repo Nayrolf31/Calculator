@@ -1,0 +1,28 @@
+.screen-wrapper {
+    min-height: 105px;
+    background-color:aquamarine ;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    border-radius: 15px;
+
+    padding: 16px;
+    margin: 4px;
+}
+
+.result {
+    display: flex;
+    /* flex: 1; */
+    font-size: 24px;
+    align-items: center;
+}
+
+.text {
+    /* flex: 1; */
+    font-size: 24px;
+}
+
+h1 , h3 {
+    margin: 0;
+}
