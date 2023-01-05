@@ -1,6 +1,7 @@
 .screen-wrapper {
     min-height: 105px;
     background-color:aquamarine ;
+    box-shadow: inset 0px 0px 50px -11px #000000;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
@@ -13,13 +14,11 @@
 
 .result {
     display: flex;
-    /* flex: 1; */
     font-size: 24px;
     align-items: center;
 }
 
 .text {
-    /* flex: 1; */
     font-size: 24px;
 }
 
